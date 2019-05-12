@@ -1,4 +1,4 @@
 # web_picture　　
 Store pictures for my website.  
-For STORAGE
+For STORAGE  
 NOTHING SERIOUS
